@@ -18,4 +18,4 @@ If you've found my utilities useful, consider buying me a coffee! Your donation,
 
 I deeply appreciate your support and am thrilled to have you as part of this journey. Your contribution makes all the difference!
 
-[👉 Buy Me a Coffee](https://github.com/themanlee7942)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/themanlee7942)
